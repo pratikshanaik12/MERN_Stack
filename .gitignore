@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+
+# Build files
+build/
+dist/
+*.log
+*.pid
+
+# Environment variables
+.env
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS system files
+.DS_Store
+
+# Logs
+logs/
+
+# Production build
+build/
+
+# User-specific files
+*.swp
+
+# Dependencies installed by npm or yarn
+package-lock.json
+yarn.lock
